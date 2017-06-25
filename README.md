@@ -1,6 +1,11 @@
 write-file-atomic
 -----------------
 
+**Forked from https://github.com/npm/write-file-atomic to include https://github.com/npm/write-file-atomic/pull/25, for
+use with [AVA](https://github.com/avajs/ava/).**
+
+---
+
 This is an extension for node's `fs.writeFile` that makes its operation
 atomic and allows you set ownership (uid/gid of the file).
 

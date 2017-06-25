@@ -1,5 +1,5 @@
 {
-  "name": "write-file-atomic",
+  "name": "@ava/write-file-atomic",
   "version": "2.1.0",
   "description": "Write files in an atomic fashion w/configurable ownership",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:iarna/write-file-atomic.git"
+    "url": "git+https://github.com/avajs/write-file-atomic"
   },
   "keywords": [
     "writeFile",
